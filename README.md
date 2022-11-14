@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div aling="center" id="logo">
+<div align="center" id="logo">
   <img
     src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
     alt="gif"
-    width="200"
+    width="800"
   />
 
-  <h1 aling="center">Hi, 👋I'm Louis👋</h1>
-  <h3 aling="center">
+  <h1 align="center">Hi, 👋I'm Louis👋</h1>
+  <h3 align="center">
     Hello! I'm Louis, a ✨Jr Front End Developer✨ with experience in web
     application development, specialist in HTML, CSS and JavaScript. My main
     skills are web page design, responsive design, among others. Open to unique
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
     I cultivated myself in this direction.😄😄😄
   </h3>
 </div>
+
