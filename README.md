@@ -134,13 +134,16 @@ Here are some ideas to get you started:
   />
 </div>
 
- <hr/>
-### estadisticas👋👋
+### Estadisticas👋👋
 
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div display="flex">
+  <hr/>
+  [![Top
+  Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub
+  stats](https://github-readme-stats.vercel.app/api?username=waka-code&show_icons=true&theme=radical)
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waka-code&show_icons=true&theme=radical)
 
 
 
