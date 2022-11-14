@@ -137,8 +137,7 @@ Here are some ideas to get you started:
 ### Estadisticas👋👋
 <div display="flex">
   <hr/>
-  [![Top
-  Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   ![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api?username=waka-code&show_icons=true&theme=radical)
 </div>
