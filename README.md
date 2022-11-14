@@ -1,4 +1,5 @@
-<!--
+
+ <!--
 **waka-code/waka-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,5 +30,23 @@ Here are some ideas to get you started:
   </h3>
 </div>
 
+ ### About Me👋👋
+ 
+<div id="about">
+  <ul>
+    🔭 Me gusta la programacion.
+  </ul>
+  <ul>
+    💬 Puedes contactarme por aqui💬: 👋
+    (https://api.whatsapp.com/send/?phone=18295041112&text&type=phone_number&app_absent=0)
+  </ul>
+  <ul>
+    ⚡ Actualmente me preparo en las tecnologias del backend, para ser Full
+    stack😄
+  </ul>
+  <ul>
+    🔭 Mi portafolio:💬 (https://waka-code.github.io/SaintLouis/#) 💬
+  </ul>
+</div>
 
 
