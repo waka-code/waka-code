@@ -20,33 +20,33 @@ Here are some ideas to get you started:
     width="500"
   />
 
-  <h1 align="center">Hi, 👋I'm Louis👋</h1>
+  <h1 align="center">Hi, 👋Soy Louis👋</h1>
   <h3 align="center">
-    Hello! I'm Louis, a ✨Jr Front End Developer✨ with experience in web
-    application development, specialist in HTML, CSS and JavaScript. My main
-    skills are web page design, responsive design, among others. Open to unique
-    work and long-term cooperation. I love my profession and with great pleasure
-    I cultivated myself in this direction.😄😄😄
+    ¡Hola! Soy Louis, un ✨Jr Front End Developer✨ con experiencia en web
+    desarrollo de aplicaciones, especialista en HTML, CSS y JavaScript. Mi principal
+    Las habilidades son diseño de páginas web, diseño responsive, entre otras. Abierto a lo único
+    Trabajo y cooperación a largo plazo. Amo mi profesión y con mucho gusto
+    Me cultivé en esta dirección.😄😄😄
   </h3>
 </div>
 
- ### About Me👋👋
+ ### Sobre Mi👋👋
  
 <div id="about">
   <ul>
-    🔭 Me gusta la programacion.
-  </ul>
-  <ul>
-    💬 Puedes contactarme por aqui💬: 👋
-    (https://api.whatsapp.com/send/?phone=18295041112&text&type=phone_number&app_absent=0)
+    🔭 Me gusta la Programacion.
   </ul>
   <ul>
     ⚡ Actualmente me preparo en las tecnologias del backend, para ser Full
     stack😄
   </ul>
   <ul>
-    🔭 Mi portafolio:💬 (https://waka-code.github.io/SaintLouis/#) 💬
+    🔭 Mi portafolio:💬(https://waka-code.github.io/SaintLouis/#)💬
+  </ul>
+  <ul>
+    💬 Puedes contactarme por a este numero💬: 👋+18295041112
   </ul>
 </div>
+
 
 
