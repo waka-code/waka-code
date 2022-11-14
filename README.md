@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img
     src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
     alt="gif"
-    width="800"
+    width="500"
   />
 
   <h1 align="center">Hi, 👋I'm Louis👋</h1>
