@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
   <h1 align="center">Hi, 👋Soy Louis👋</h1>
   <h3 align="center">
-    ¡Hola! Soy Louis, un ✨Jr Front End Developer✨ con experiencia en web
-    desarrollo de aplicaciones, especialista en HTML, CSS y JavaScript. Mi principal
-    Las habilidades son diseño de páginas web, diseño responsive, entre otras. Abierto a lo 
-    Trabajos único y cooperación a largo plazo. Amo mi profesión y con mucho gusto
+    ¡Hola! Soy Louis, un ✨Jr Front End Developer✨ con experiencia en 
+    desarrollo web, especialista en HTML, CSS y JavaScript. Mis principales
+    habilidades son diseños de páginas web, diseños responsives, entre otras.Estoy abierto a los
+    Trabajos únicos y a cooperaciónes a largo plazo. Amo mi profesión y con mucho gusto
     Me cultivé en esta dirección.😄😄😄
   </h3>
 </div>
