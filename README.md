@@ -51,66 +51,83 @@ Here are some ideas to get you started:
 <div align="left">
   <h3>Lenguajes y Herramientas</h3>
   <div>
-    <img  height="5vh"
+    <img
+      height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
       alt="html"
     />
-    <img  height="5vh"
+    <img
+      height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
       alt="css"
     />
-    <img  height="5vh"
+    <img
+      height="15vh"
       src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
       alt="scss"
     />
-    <img  height="5vh"
+    <img
+      height="15vh"
       src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
       alt="bt"
     />
-    <img  height="5vh"
+    <img
+      height="15vh"
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="js"
     />
-    <img  height="5vh"
+    <img
+      height="15vh"
       src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
       alt="ts"
     />
-    <img  height="5vh"
+    <img
+      height="15vh"
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
       alt="react"
     />
-    <img  height="5vh"
+    <img
+      height="15vh"
       src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
       alt="figma"
     />
-    <img  height="5vh"
+    <img
+      height="15vh"
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
       alt="git"
     />
-    <img  height="5vh"
+    <img
+      height="15vh"
       src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
       alt="github"
     />
-    <img  height="5vh"
+    <img
+      height="15vh"
       src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
     />
   </div>
   <h3>Herramientas en curso</h3>
-  <img  height="5vh"
+  <img
+    height="15vh"
     src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs"
   />
-  <img  height="5vh"
+  <img
+    height="15vh"
     src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
     alt="express"
   />
-  <img  height="5vh"
+  <img
+    height="15vh"
     src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
     alt="sql"
   />
-  <img height="5vh"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
+  <img
+    height="15vh"
+    src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
     alt="mysql"
   />
 </div>
+
 
