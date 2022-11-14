@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     💬 Puedes contactarme por a este numero💬: 👋+18295041112
   </ul>
  <ul>
-    🔭 CV:💬 ([CV][https://waka-code.github.io/SaintLouis/#](https://drive.google.com/file/d/1XA17ixx6_aPQVLIAkIWC_b0Ss_xX4rHH/view)) 💬
+    🔭 CV:💬 (https://waka-code.github.io/SaintLouis/#](https://drive.google.com/file/d/1XA17ixx6_aPQVLIAkIWC_b0Ss_xX4rHH/view) 💬
   </ul>
 </div>
 
