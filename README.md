@@ -52,12 +52,12 @@ Here are some ideas to get you started:
   <h3>Lenguajes y Herramientas</h3>
   <div>
     <img
-      height="5vh"
+      height="55vh"
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
       alt="html"
     />
     <img
-      height="5vh"
+      height="55vh"
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
       alt="css"
     />
