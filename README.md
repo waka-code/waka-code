@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <h3 align="center">
     ¡Hola! Soy Louis, un ✨Jr Front End Developer✨ con experiencia en web
     desarrollo de aplicaciones, especialista en HTML, CSS y JavaScript. Mi principal
-    Las habilidades son diseño de páginas web, diseño responsive, entre otras. Abierto a lo único
-    Trabajo y cooperación a largo plazo. Amo mi profesión y con mucho gusto
+    Las habilidades son diseño de páginas web, diseño responsive, entre otras. Abierto a lo 
+    Trabajos único y cooperación a largo plazo. Amo mi profesión y con mucho gusto
     Me cultivé en esta dirección.😄😄😄
   </h3>
 </div>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     stack😄
   </ul>
   <ul>
-    🔭 Mi portafolio:💬(https://waka-code.github.io/SaintLouis/#)💬
+    🔭 Mi portafolio:💬[Saint-Louis](https://waka-code.github.io/SaintLouis/#)💬
   </ul>
   <ul>
     💬 Puedes contactarme por a este numero💬: 👋+18295041112
