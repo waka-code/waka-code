@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     🔭 Mi portafolio:💬 (https://waka-code.github.io/SaintLouis/#) 💬
   </ul>
   <ul>
-    💬 Puedes contactarme por a este numero💬: 👋+18295041112
+    💬 Puedes contactarme a este numero💬: 👋+18295041112
   </ul>
 </div>
 
