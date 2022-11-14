@@ -51,66 +51,65 @@ Here are some ideas to get you started:
 <div align="left">
   <h3>Lenguajes y Herramientas</h3>
   <div>
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
       alt="html"
     />
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
       alt="css"
     />
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
       alt="scss"
     />
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
       alt="bt"
     />
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="js"
     />
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
       alt="ts"
     />
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
       alt="react"
     />
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
       alt="figma"
     />
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
       alt="git"
     />
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
       alt="github"
     />
-    <img
+    <img  height="5vh"
       src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
     />
   </div>
   <h3>Herramientas en curso</h3>
-  <img
+  <img  height="5vh"
     src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs"
   />
-  <img
+  <img  height="5vh"
     src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
     alt="express"
   />
-  <img
+  <img  height="5vh"
     src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
     alt="sql"
   />
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
+  <img height="5vh"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
     alt="mysql"
   />
 </div>
