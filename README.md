@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     width="600"
   />
 
-  <h1 align="center">Hi, 👋Soy Louis👋</h1>
+  <h1 align="center">Hi, 👋Bienvenido a waka-code👋</h1>
   <h3 align="center">
     ¡Hola! Soy Louis, un ✨Jr Front End Developer✨ con experiencia en 
     desarrollo web, especialista en HTML, CSS y JavaScript. Mis principales
