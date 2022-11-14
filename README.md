@@ -33,6 +33,7 @@ Here are some ideas to get you started:
  ### Sobre Mi👋👋
  
 <div id="about">
+  <hr/>
   <ul>
     🔭 Me gusta la Programacion.
   </ul>
@@ -48,7 +49,10 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
+### Skill👋👋
+
 <div align="left">
+ <hr/>
   <h3>Lenguajes y Herramientas</h3>
   <div>
     <img
@@ -129,6 +133,8 @@ Here are some ideas to get you started:
     alt="mysql"
   />
 </div>
+
+### estadisticas👋👋
 
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
