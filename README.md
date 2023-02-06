@@ -90,6 +90,11 @@ Here are some ideas to get you started:
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
       alt="react"
     />
+     <img
+      height="50vh" width="50"
+      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"
+      alt="css"
+    />
     <img
       height="50vh" width="50"
       src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
@@ -110,11 +115,6 @@ Here are some ideas to get you started:
       src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
     />
-   <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"
-      alt="css"
-    />
   </div>
   <h3>Herramientas en curso</h3>
   <img
@@ -131,11 +131,6 @@ Here are some ideas to get you started:
     height="50vh" width="50"
     src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
     alt="sql"
-  />
-  <img
-    height="50vh" width="50"
-    src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
   />
 </div>
 
