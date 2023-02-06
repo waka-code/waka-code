@@ -110,6 +110,11 @@ Here are some ideas to get you started:
       src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
     />
+   <img
+      height="50vh" width="50"
+      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"
+      alt="css"
+    />
   </div>
   <h3>Herramientas en curso</h3>
   <img
