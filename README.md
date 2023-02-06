@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     stack😄
   </ul>
   <ul>
-    🔭 Mi portafolio:💬 (https://waka-code.github.io/SaintLouis/#) 💬
+    🔭 Mi portafolio:💬 (https://waka-code.github.io/wakaCode_/) 💬
   </ul>
   <ul>
     💬 Puedes contactarme a este numero💬: 👋+18295041112
