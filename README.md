@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   <h1 align="center">Hi, 👋Bienvenido y mucho gusto👋</h1>
   <h3 align="center">
-    ¡Hola! Soy Louis, un ✨Jr Front End Developer✨ con experiencia en 
+    ¡Hola! Soy Louis, un ✨Front End Developer✨ con experiencia en 
     desarrollo web, especialista en HTML, CSS y JavaScript. Mis principales
     habilidades son diseños de páginas web, diseños responsives, entre otras.Estoy abierto a los
     Trabajos únicos y a cooperaciónes a largo plazo. Amo mi profesión y con mucho gusto
@@ -36,10 +36,6 @@ Here are some ideas to get you started:
   <hr/>
   <ul>
     🔭 Me gusta la Programacion.
-  </ul>
-  <ul>
-    ⚡ Actualmente me preparo en las tecnologias del backend, para ser Full
-    stack😄
   </ul>
   <ul>
     🔭 Mi portafolio:💬 (https://waka-code.github.io/wakaCode_/) 💬
@@ -115,9 +111,7 @@ Here are some ideas to get you started:
       src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
     />
-  </div>
-  <h3>Herramientas en curso</h3>
-  <img
+     <img
     height="50vh" width="50"
     src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs"
@@ -132,6 +126,9 @@ Here are some ideas to get you started:
     src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
     alt="sql"
   />
+  </div>
+  <h3>Herramientas en curso</h3>
+ 
 </div>
 
 ### Estadisticas👋👋
