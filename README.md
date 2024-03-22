@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   <h1 align="center">Hi, 👋Bienvenido y mucho gusto👋</h1>
   <h3 align="center">
-    ¡Hola! Soy Louis, un ✨Front End Developer✨ con experiencia en 
+    ¡Hola! Soy Louis, un ✨Systeem engineer y Fullstack developer ✨ con experiencia en 
     desarrollo web, especialista en HTML, CSS y JavaScript. Mis principales
     habilidades son diseños de páginas web, diseños responsives, entre otras.Estoy abierto a los
     Trabajos únicos y a cooperaciónes a largo plazo. Amo mi profesión y con mucho gusto
