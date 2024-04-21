@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     🔭 Me gusta la Programacion.
   </ul>
   <ul>
-    🔭 Mi portafolio:💬 (https://waka-code.github.io/wakaCode_/) 💬
+    🔭 Mi portafolio:💬 En Proceso... 💬
   </ul>
   <ul>
     💬 Puedes contactarme a este numero💬: 👋+18295041112
