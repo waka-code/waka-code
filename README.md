@@ -47,8 +47,11 @@ Here are some ideas to get you started:
   <hr/>
   <p>
     🔭Desarrollo Fullstack: Diseño e implementación de APIs RESTful, gestión de estado en aplicaciones, y creación de interfaces de usuario intuitivas y funcionales.
+    <br>
     🔭 Arquitecturas Avanzadas: Experiencia en arquitectura hexagonal, microservicios y aplicaciones progresivas (PWA).
+    <br>
     🔭 Liderazgo Técnico: Supervisión y mentoría de equipos, incluyendo la capacitación de nuevos desarrolladores e internos, revisiones de código y soporte técnico.
+    <br>
     🔭 Optimización de Procesos: Implementación de soluciones para automatizar y digitalizar procesos empresariales, integrándolos con ERPs y otras herramientas de gestión.
   </p>
 </div>
