@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   <span><h4>DevOps:</h4> Docker, Docker Compose, Git.</span>
     <br>
   <h3>Herramientas en curso</h3>
-  <span>AWS, Rust</span>
+  <span>AWS Certified Developer – Associate, Rust</span>
 </div>
 
 
