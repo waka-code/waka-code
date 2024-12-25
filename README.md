@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   </h3>
 </div>
 
- ### Sobre Mi👋👋
- 
+### Sobre Mi👋👋
+
 <div id="about">
   <hr/>
   <ul>
@@ -39,6 +39,18 @@ Here are some ideas to get you started:
   <ul>
     💬 Puedes contactarme a este numero💬: 👋+18295041112
   </ul>
+</div>
+
+### Experiencia Destacada👋👋
+
+<div id="experience">
+  <hr/>
+  <p>
+    🔭Desarrollo Fullstack: Diseño e implementación de APIs RESTful, gestión de estado en aplicaciones, y creación de interfaces de usuario intuitivas y funcionales.
+    🔭 Arquitecturas Avanzadas: Experiencia en arquitectura hexagonal, microservicios y aplicaciones progresivas (PWA).
+    🔭 Liderazgo Técnico: Supervisión y mentoría de equipos, incluyendo la capacitación de nuevos desarrolladores e internos, revisiones de código y soporte técnico.
+    🔭 Optimización de Procesos: Implementación de soluciones para automatizar y digitalizar procesos empresariales, integrándolos con ERPs y otras herramientas de gestión.
+  </p>
 </div>
 
 ### Skill👋👋
@@ -124,19 +136,13 @@ Here are some ideas to get you started:
   />
   </div>
   <h3>Herramientas en curso</h3>
- 
+
 </div>
 
 ### Estadisticas👋👋
 
   <hr/>
- 
+
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- 
   ![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api?username=waka-code&show_icons=true&theme=radical)
-
-
-
-
-
