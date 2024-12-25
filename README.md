@@ -49,13 +49,13 @@ Here are some ideas to get you started:
 <div id="experience">
   <hr/>
   <p>
-    🔭Desarrollo Fullstack: Diseño e implementación de APIs RESTful, gestión de estado en aplicaciones, y creación de interfaces de usuario intuitivas y funcionales.
+     <h4>🔭Desarrollo Fullstack:</h4> Diseño e implementación de APIs RESTful, gestión de estado en aplicaciones, y creación de interfaces de usuario intuitivas y funcionales.
     <br>
-    🔭 Arquitecturas Avanzadas: Experiencia en arquitectura hexagonal, microservicios y aplicaciones progresivas (PWA).
+     <h4>🔭 Arquitecturas Avanzadas:</h4>Experiencia en arquitectura hexagonal, microservicios y aplicaciones progresivas (PWA).
     <br>
-    🔭 Liderazgo Técnico: Supervisión y mentoría de equipos, incluyendo la capacitación de nuevos desarrolladores e internos, revisiones de código y soporte técnico.
+     <h4>🔭 Liderazgo Técnico:</h4>Supervisión y mentoría de equipos, incluyendo la capacitación de nuevos desarrolladores e internos, revisiones de código y soporte técnico.
     <br>
-    🔭 Optimización de Procesos: Implementación de soluciones para automatizar y digitalizar procesos empresariales, integrándolos con ERPs y otras herramientas de gestión.
+     <h4>🔭 Optimización de Procesos:</h4>Implementación de soluciones para automatizar y digitalizar procesos empresariales, integrándolos con ERPs y otras herramientas de gestión.
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <div align="left">
  <hr/>
-  <h3>Lenguajes y Herramientas</h3>
+  <h4>Lenguajes y Herramientas</h4>
   <span><h4>Frontend:</h4>React, Angular, TypeScript, TailwindCSS, Material UI, Bootstrap, SPA, PWA.</span>
     <br>
   <span><h4>Backend:</h4>Node.js, .NET 8, C#, Express, JWT, Swagger.</span>
