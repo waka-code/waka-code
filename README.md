@@ -65,9 +65,13 @@ Here are some ideas to get you started:
  <hr/>
   <h3>Lenguajes y Herramientas</h3>
   <span>Frontend: React, Angular, TypeScript, TailwindCSS, Material UI, Bootstrap, SPA, PWA.</span>
+    <br>
   <span>Backend: Node.js, .NET 8, C#, Express, JWT, Swagger.</span>
+    <br>
   <span>Bases de Datos: PostgreSQL, SQL Server, MongoDB.</span>
+    <br>
   <span>DevOps: Docker, Docker Compose, Git.</span>
+    <br>
   <h3>Herramientas en curso</h3>
   <span>AWS, Rust</span>
 </div>
