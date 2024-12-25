@@ -33,8 +33,11 @@ Here are some ideas to get you started:
   <ul>
     🔭 Soy especialista en tecnologías como React, Angular, TypeScript, C#, .NET, y bases de datos como PostgreSQL y MongoDB. Mi enfoque está en la creación de aplicaciones modernas y escalables, con un diseño responsivo y una experiencia de usuario optimizada.
   </ul>
+    <ul>
+    🔭 Mi CV:💬 https://acortar.link/BmVi2o
+  </ul>
   <ul>
-    🔭 Mi portafolio:💬 https://waka-code.github.io/Waddimi_Saint_louis/#/💬
+    🔭 Mi portafolio:💬 https://waka-code.github.io/Waddimi_Saint_louis/#
   </ul>
   <ul>
     💬 Puedes contactarme a este numero💬: 👋+18295041112
@@ -61,85 +64,19 @@ Here are some ideas to get you started:
 <div align="left">
  <hr/>
   <h3>Lenguajes y Herramientas</h3>
-  <div>
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
-      alt="html"
-    />
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
-      alt="css"
-    />
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
-      alt="scss"
-    />
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
-      alt="bt"
-    />
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-      alt="js"
-    />
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
-      alt="ts"
-    />
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-    />
-     <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"
-      alt="css"
-    />
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
-      alt="figma"
-    />
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-      alt="git"
-    />
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
-      alt="github"
-    />
-    <img
-      height="50vh" width="50"
-      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-    />
-     <img
-    height="50vh" width="50"
-    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs"
-  />
-  <img
-    height="50vh" width="50"
-    src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
-    alt="express"
-  />
-  <img
-    height="50vh" width="50"
-    src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-    alt="sql"
-  />
-  </div>
+  <span>Frontend: React, Angular, TypeScript, TailwindCSS, Material UI, Bootstrap, SPA, PWA.</span>
+  <span>Backend: Node.js, .NET 8, C#, Express, JWT, Swagger.</span>
+  <span>Bases de Datos: PostgreSQL, SQL Server, MongoDB.</span>
+  <span>DevOps: Docker, Docker Compose, Git.</span>
   <h3>Herramientas en curso</h3>
+  <span>AWS, Rust</span>
+</div>
 
+### 🚀 Lo que me motiva 👋👋
+
+<div align="left">
+ <hr/>
+ <p>Crear soluciones tecnológicas impactantes y colaborar en proyectos únicos o a largo plazo. Si buscas innovación, eficiencia y calidad, ¡trabajemos juntos!</p>
 </div>
 
 ### Estadisticas👋👋
