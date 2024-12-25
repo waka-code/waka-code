@@ -64,13 +64,13 @@ Here are some ideas to get you started:
 <div align="left">
  <hr/>
   <h3>Lenguajes y Herramientas</h3>
-  <span><h4>Frontend:</h4> React, Angular, TypeScript, TailwindCSS, Material UI, Bootstrap, SPA, PWA.</span>
+  <span><h4>Frontend:</h4>React, Angular, TypeScript, TailwindCSS, Material UI, Bootstrap, SPA, PWA.</span>
     <br>
-  <span><h4>Backend:</h4> Node.js, .NET 8, C#, Express, JWT, Swagger.</span>
+  <span><h4>Backend:</h4>Node.js, .NET 8, C#, Express, JWT, Swagger.</span>
     <br>
-  <span><h4>Bases de Datos:</h4> PostgreSQL, SQL Server, MongoDB.</span>
+  <span><h4>Bases de Datos:</h4>PostgreSQL, SQL Server, MongoDB.</span>
     <br>
-  <span><h4>DevOps:</h4>  Docker, Docker Compose, Git.</span>
+  <span><h4>DevOps:</h4> Docker, Docker Compose, Git.</span>
     <br>
   <h3>Herramientas en curso</h3>
   <span>AWS, Rust</span>
