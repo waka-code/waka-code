@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 
   <h1 align="center">Hi, 👋Bienvenido y mucho gusto👋</h1>
   <h3 align="center">
-    ¡Hola! Soy Louis, un ✨Systeem engineer y Fullstack developer ✨ con experiencia en 
-    desarrollo web, especialista en HTML, CSS y JavaScript. Mis principales
-    habilidades son diseños de páginas web, diseños responsives, entre otras.Estoy abierto a los
-    Trabajos únicos y a cooperaciónes a largo plazo. Amo mi profesión y con mucho gusto
-    Me cultivé en esta dirección.😄😄😄
+    ¡Hola! Soy Louis, un ✨Systeem engineer y Fullstack developer ✨ apasionado por la tecnología y el desarrollo de soluciones innovadoras. Con más de 4 años de experiencia profesional, he trabajado en proyectos que abarcan desde freelance hasta posiciones en empresas consolidadas, desarrollando aplicaciones web y sistemas robustos para mejorar la eficiencia de procesos empresariales.😄😄😄
   </h3>
 </div>
 
@@ -35,10 +31,10 @@ Here are some ideas to get you started:
 <div id="about">
   <hr/>
   <ul>
-    🔭 Me gusta la Programacion.
+    🔭 Soy especialista en tecnologías como React, Angular, TypeScript, C#, .NET, y bases de datos como PostgreSQL y MongoDB. Mi enfoque está en la creación de aplicaciones modernas y escalables, con un diseño responsivo y una experiencia de usuario optimizada.
   </ul>
   <ul>
-    🔭 Mi portafolio:💬 En Proceso... 💬
+    🔭 Mi portafolio:💬 https://waka-code.github.io/Waddimi_Saint_louis/#/💬
   </ul>
   <ul>
     💬 Puedes contactarme a este numero💬: 👋+18295041112
