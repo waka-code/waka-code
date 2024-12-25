@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   </h3>
 </div>
 
+
 ### Sobre Mi👋👋
 
 <div id="about">
@@ -59,6 +60,7 @@ Here are some ideas to get you started:
   </p>
 </div>
 
+
 ### Skill👋👋
 
 <div align="left">
@@ -76,12 +78,14 @@ Here are some ideas to get you started:
   <span>AWS, Rust</span>
 </div>
 
+
 ### 🚀 Lo que me motiva 👋👋
 
 <div align="left">
  <hr/>
  <p>Crear soluciones tecnológicas impactantes y colaborar en proyectos únicos o a largo plazo. Si buscas innovación, eficiencia y calidad, ¡trabajemos juntos!</p>
 </div>
+
 
 ### Estadisticas👋👋
 
