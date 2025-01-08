@@ -96,4 +96,7 @@ Here are some ideas to get you started:
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+<br>
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waka-code)](https://github.com/anuraghazra/github-readme-stats)
