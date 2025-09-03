@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" alt="code" width="600"/>
+  <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" alt="code" width="800px" height="200px"/>
   
   # 👋 Hola, soy Louis  
   **System Engineer & Fullstack Developer**  
