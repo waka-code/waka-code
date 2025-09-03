@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBOIY4fAxlZ4TH18vUvEgmbG4Sf9jUKAE0AdjKeqslwMTLnkUaLb0EZzqgc0vOldegzj4iCgEjtuOKhwLtz4eG7hcArKT9FfybYgO2exHIDpnFI=w1910-h972" 
+<div >
+<!--   <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBOIY4fAxlZ4TH18vUvEgmbG4Sf9jUKAE0AdjKeqslwMTLnkUaLb0EZzqgc0vOldegzj4iCgEjtuOKhwLtz4eG7hcArKT9FfybYgO2exHIDpnFI=w1910-h972" 
        alt="Banner de programación" 
        width="100%" 
-       height="200px"/>
+       height="200px"/> -->
   
   # 👋 Hola, soy Louis  
   **System Engineer & Fullstack Developer**  
