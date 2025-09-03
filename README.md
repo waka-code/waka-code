@@ -1,76 +1,57 @@
-
- <!--
-**waka-code/waka-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center" id="logo">
-  <img
-    src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
-    alt="gif"
-    width="600"
-  />
-
-  <h1 align="center">Hi, 👋Bienvenido y mucho gusto👋</h1>
-  <h3 align="center">
-    ¡Hola! Soy Louis, un ✨Systeem engineer y Fullstack developer ✨ apasionado por la tecnología y el desarrollo de soluciones innovadoras. Con más de 4 años de experiencia profesional, he trabajado en proyectos que abarcan desde freelance hasta posiciones en empresas consolidadas, desarrollando aplicaciones web y sistemas robustos para mejorar la eficiencia de procesos empresariales.😄😄😄
-  </h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif" width="600"/>
+  
+  # 👋 Hola, soy Louis  
+  **System Engineer & Fullstack Developer**  
+  Apasionado por crear soluciones innovadoras y escalables.  
+  +4 años de experiencia en desarrollo de software, desde freelance hasta empresas consolidadas.
 </div>
 
+---
 
-### Sobre Mi👋👋
+## 🚀 Sobre mí  
+- 🔭 Especialista en **desarrollo web fullstack**.  
+- 💻 Me enfoco en apps modernas, escalables y con gran experiencia de usuario.  
+- 📄 [Mi CV](https://acortar.link/BmVi2o)  
+- 🌐 [Mi Portafolio](https://waka-code.github.io/Waddimi_Saint_louis/#)  
+- 📩 Contáctame: **+1 829 504 1112**
 
-<div id="about">
-  <hr/>
-  <ul>
-    🔭 Soy especialista en tecnologías como React, Angular, TypeScript, C#, .NET, y bases de datos como PostgreSQL y MongoDB. Mi enfoque está en la creación de aplicaciones modernas y escalables, con un diseño responsivo y una experiencia de usuario optimizada.
-  </ul>
-    <ul>
-    🔭 Mi CV:💬 https://acortar.link/BmVi2o
-  </ul>
-  <ul>
-    🔭 Mi portafolio:💬 https://waka-code.github.io/Waddimi_Saint_louis/#
-  </ul>
-  <ul>
-    💬 Puedes contactarme a este numero💬: 👋+18295041112
-  </ul>
-</div>
+---
 
+## 🛠️ Tech Stack  
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)  
+![MaterialUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)  
 
-### Skill👋👋
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)  
 
-<div align="left">
- <hr/>
-  <h4>Lenguajes y Herramientas</h4>
-  <span><h4>Frontend:</h4>React, Angular, TypeScript, TailwindCSS, Material UI, Bootstrap, SPA, PWA.</span>
-    <br>
-  <span><h4>Backend:</h4>Node.js, .NET 8, C#, Express, JWT, Swagger.</span>
-    <br>
-  <span><h4>Bases de Datos:</h4>PostgreSQL, SQL Server, MongoDB.</span>
-    <br>
-  <span><h4>DevOps:</h4> Docker, Docker Compose, Git.</span>
-    <br>
-  <h3>Herramientas en curso</h3>
-  <span>AWS Certified Developer – Associate, Rust</span>
-</div>
+**Bases de Datos**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 
+**DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 
-### Estadisticas👋👋
+**En progreso**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)  
 
-  <hr/>
+---
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=waka-code&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+## 📊 Estadísticas  
 
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waka-code&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&exclude_repo=github-readme-stats,anuraghazra.github.io)
+---
