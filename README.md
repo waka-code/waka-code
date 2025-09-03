@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif" width="600"/>
+<!--   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif" width="600"/> -->
   
   # 👋 Hola, soy Louis  
   **System Engineer & Fullstack Developer**  
