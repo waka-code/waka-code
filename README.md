@@ -1,8 +1,10 @@
 <div >
-  <img src="https://github.com/user-attachments/assets/c1197acb-c1d5-4a5a-9c30-08d9d99b95e1" 
+<!--   <img src="https://github.com/user-attachments/assets/c1197acb-c1d5-4a5a-9c30-08d9d99b95e1" 
        alt="Banner de programación" 
        width="100%" 
-       height="200px"/>
+       height="200px"/> -->
+
+<img width="1275" height="307" alt="image" src="https://github.com/user-attachments/assets/ebc1007f-3a74-4f1a-ab42-047a8ee39967" />
 
   # 👋 Hola, soy Louis  
   **System Engineer & Fullstack Developer**  
