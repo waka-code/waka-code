@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" 
+  <img src="https://chatgpt.com/s/m_68b8940f56e0819193439837044bc3d0" 
        alt="Banner de programación" 
        width="100%" 
        height="200px"/>
   
   # 👋 Hola, soy Louis  
   **System Engineer & Fullstack Developer**  
-  Apasionado por crear soluciones innovadoras y escalables.  
-  +4 años de experiencia en desarrollo de software, desde freelance hasta empresas consolidadas.
+Passionate about creating innovative and scalable solutions.  
+  +4 years of experience in software development, from freelance work to established companies.
 </div>
 
 ---
