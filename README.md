@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://chatgpt.com/s/m_68b8940f56e0819193439837044bc3d0" 
+  <img src="https://www.canva.com/design/DAGx87_EIZU/30nX-UuX1QcsVbQ_7w8GzA/edit?utm_content=DAGx87_EIZU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" 
        alt="Banner de programación" 
        width="100%" 
        height="200px"/>
