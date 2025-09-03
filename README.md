@@ -44,7 +44,6 @@ Passionate about creating innovative and scalable solutions.
 
 ## 📊 Estadísticas  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waka-code&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waka-code&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&layout=compact&theme=radical)
 
 ---
