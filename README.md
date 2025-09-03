@@ -2,7 +2,7 @@
   <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" 
        alt="Banner de programación" 
        width="100%" 
-       height="500px"/>
+       height="300px"/>
   
   # 👋 Hola, soy Louis  
   **System Engineer & Fullstack Developer**  
