@@ -45,20 +45,6 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-### Experiencia Destacada👋👋
-
-<div id="experience">
-  <hr/>
-  <p>
-     <h4>🔭Desarrollo Fullstack:</h4> Diseño e implementación de APIs RESTful, gestión de estado en aplicaciones, y creación de interfaces de usuario intuitivas y funcionales.
-    <br>
-     <h4>🔭 Arquitecturas Avanzadas:</h4>Experiencia en arquitectura hexagonal, microservicios y aplicaciones progresivas (PWA).
-    <br>
-     <h4>🔭 Liderazgo Técnico:</h4>Supervisión y mentoría de equipos, incluyendo la capacitación de nuevos desarrolladores e internos, revisiones de código y soporte técnico.
-    <br>
-     <h4>🔭 Optimización de Procesos:</h4>Implementación de soluciones para automatizar y digitalizar procesos empresariales, integrándolos con ERPs y otras herramientas de gestión.
-  </p>
-</div>
 
 
 ### Skill👋👋
@@ -76,14 +62,6 @@ Here are some ideas to get you started:
     <br>
   <h3>Herramientas en curso</h3>
   <span>AWS Certified Developer – Associate, Rust</span>
-</div>
-
-
-### 🚀 Lo que me motiva 👋👋
-
-<div align="left">
- <hr/>
- <p>Crear soluciones tecnológicas impactantes y colaborar en proyectos únicos o a largo plazo. Si buscas innovación, eficiencia y calidad, ¡trabajemos juntos!</p>
 </div>
 
 
