@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAGx87_EIZU/30nX-UuX1QcsVbQ_7w8GzA/edit?utm_content=DAGx87_EIZU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" 
+  <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBOIY4fAxlZ4TH18vUvEgmbG4Sf9jUKAE0AdjKeqslwMTLnkUaLb0EZzqgc0vOldegzj4iCgEjtuOKhwLtz4eG7hcArKT9FfybYgO2exHIDpnFI=w1910-h972" 
        alt="Banner de programación" 
        width="100%" 
        height="200px"/>
