@@ -47,6 +47,31 @@ collaborating with stakeholders to deliver secure, scalable solutions.
 
 ---
 
+## 💼 Professional Experience (Highlights)
+
+### 🏢 Higher Bit Solutions (HBS) — Senior Fullstack Engineer / Technical Lead
+*ERP & Business Management Platforms*
+
+- Led technical decisions across frontend and backend systems.
+- Designed and maintained cloud-native architectures using microservices.
+- Mentored developers and enforced coding standards and best practices.
+
+### 🏢 ProDoctivity SRL — Senior Fullstack Developer
+*Business management and process automation platform*
+
+- Developed and scaled fullstack features using React, TypeScript, and Node.js.
+- Designed microservices supporting core ERP workflows.
+- Acted as a technical reference for architecture and implementation decisions.
+
+### 🏢 IMarket — Fullstack Developer
+*E-commerce & internal management systems*
+
+- Built and maintained frontend applications using Angular and TypeScript.
+- Developed backend services with .NET and PostgreSQL.
+- Collaborated with designers and backend teams to deliver production-ready features.
+
+---
+
 ## 🛠️ Core Tech Stack
 
 ### Frontend
