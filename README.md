@@ -27,7 +27,7 @@ collaborating with stakeholders to deliver secure, scalable solutions.
 ## 🧩 Featured Projects
 
 ### 🏢 OwnOrbit — Property Rental Management Platform  
-🔗 Live MVP: https://preview--renta-pulse.lovable.app/
+[🔗 Live MVP](https://preview--renta-pulse.lovable.app/)
 
 **Role:** Lead Software Engineer  
 **Tech:** Node.js, TypeScript, Express, React, React Native, Docker, gRPC
@@ -116,7 +116,7 @@ collaborating with stakeholders to deliver secure, scalable solutions.
 
 ## 📫 Contact
 
-- 📄 Resume: https://acortar.link/OWfefY
-- 🌐 Portfolio: https://waka-code.github.io/CVPortfolio  
-- 💼 LinkedIn: https://www.linkedin.com/in/waddimi-saint-louis-b49424230  
+- 📄 [Resume](https://acortar.link/OWfefY)
+- 🌐 [Portfolio](https://waka-code.github.io/CVPortfolio)
+- 💼 [LinkedIn](https://www.linkedin.com/in/waddimi-saint-louis-b49424230)
 - 📧 Email: shenryvladimil@gmail.com  
