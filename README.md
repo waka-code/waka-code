@@ -87,20 +87,9 @@ collaborating with stakeholders to deliver secure, scalable solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waka-code&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waka-code&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact
 
-- 📄 Resume: https://acortar.link/BmVi2o  
+- 📄 Resume: https://acortar.link/OWfefY
 - 🌐 Portfolio: https://waka-code.github.io/CVPortfolio  
 - 💼 LinkedIn: https://www.linkedin.com/in/waddimi-saint-louis-b49424230  
 - 📧 Email: shenryvladimil@gmail.com  
-
----
-
-⭐ *Open to remote senior roles and technical leadership opportunities.*
