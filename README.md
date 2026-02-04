@@ -8,8 +8,7 @@
 
   # 👋 Hola, soy Louis  
   **System Engineer & Fullstack Developer**  
-Passionate about creating innovative and scalable solutions.  
-  5 years of experience in software development, from freelance work to established companies.
+Senior Fullstack Engineer and Technical Lead with 5 years of experience building, scaling, and maintaining cloud-native products. Strong background in React, Node.js, and backend-driven architectures (Microservices, Hexagonal Architecture). Proven ability to lead technical decisions, mentor developers, and deliver secure, scalable solutions aligned with business goals in startup and product environments.
 </div>
 
 ---
