@@ -9,7 +9,7 @@
   # 👋 Hola, soy Louis  
   **System Engineer & Fullstack Developer**  
 Passionate about creating innovative and scalable solutions.  
-  +4 years of experience in software development, from freelance work to established companies.
+  5 years of experience in software development, from freelance work to established companies.
 </div>
 
 ---
@@ -17,8 +17,8 @@ Passionate about creating innovative and scalable solutions.
 ## 🚀 Sobre mí  
 - 🔭 Especialista en **desarrollo web fullstack**.  
 - 💻 Me enfoco en apps modernas, escalables y con gran experiencia de usuario.  
-- 📄 [Mi CV](https://acortar.link/BmVi2o)  
-- 🌐 [Mi Portafolio](https://waka-code.github.io/Waddimi_Saint_louis/#)  
+- 📄 [Mi CV]([https://acortar.link/BmVi2o](https://www.canva.com/design/DAG--CkGa8o/SqcOZ-flVIIswzX8i3XV2A/edit?utm_content=DAG--CkGa8o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))  
+- 🌐 [Mi Portafolio]([https://waka-code.github.io/Waddimi_Saint_louis/#](https://waka-code.github.io/CVPortfolio/))  
 - 📩 Contáctame: **+1 829 504 1112**
 
 ---
