@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Waddimi Saint-Louis  
 **Senior Fullstack Engineer | Technical Lead**
 
-Senior Fullstack Engineer with 5+ years of experience designing, building, and
+Senior Fullstack Engineer with 5 years of experience designing, building, and
 scaling cloud-native systems for business-critical products.
 Strong expertise in React, TypeScript, Node.js, and backend-driven architectures
 (Microservices, Clean / Hexagonal Architecture).
