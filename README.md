@@ -48,7 +48,7 @@ collaborating with stakeholders to deliver secure, scalable solutions.
 - Built secure REST APIs with JWT authentication and Swagger documentation.
 
 ---
-
+/*
 ## 💼 Professional Experience (Highlights)
 
 ### 🏢 Higher Bit Solutions (HBS) — Senior Fullstack Engineer / Technical Lead
@@ -73,6 +73,7 @@ collaborating with stakeholders to deliver secure, scalable solutions.
 - Collaborated with designers and backend teams to deliver production-ready features.
 
 ---
+*/
 
 ## 🛠️ Core Tech Stack
 
