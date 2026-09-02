@@ -51,12 +51,20 @@ performance optimization, and technical leadership.
 
 ---
 
-### 📦 StockHex — Inventory Management System
-**Tech:** .NET 8, C#, SQL Server, JWT, Swagger, Docker Compose
+### 📦 StockHex — Inventory Management System with Full Audit Trail
+[🔗 Landing page](https://waka-code.github.io/StockHex/) · [💻 Source](https://github.com/waka-code/StockHex)
 
-- Designed a backend system using Hexagonal Architecture for maintainability and testability.
-- Implemented real-time inventory tracking and stock movement workflows.
-- Built secure REST APIs with JWT authentication and Swagger documentation.
+**Tech:** .NET 8, ASP.NET Core, EF Core 8, SQL Server 2022, React 19, TypeScript, TanStack Query, xUnit + Testcontainers, Playwright, Docker Compose, GitHub Actions
+
+- Built on a single domain invariant: **stock is never edited directly**. The only way to change it is to record a movement, and movement + stock are persisted in one transaction, so history and quantities cannot drift apart. A mistake is never deleted — it is corrected by recording its reverse movement.
+- Clean architecture in four layers: Domain with no external dependencies, use cases returning `Result<T>` that never know about HTTP, controllers with no logic, and errors normalized as ProblemDetails (RFC 7807).
+- Permission-based authorization: roles are editable data, 31 permissions across 9 modules declared from a single source in code and resolved per request with an invalidatable cache — revoking a permission takes effect immediately, and a guard prevents granting a permission you do not hold yourself.
+- Hardened sessions: JWT with rotating refresh tokens stored only as SHA-256, reuse detection that invalidates the whole chain, per-IP rate limiting on `/api/auth`, and immediate lockout of deactivated accounts.
+- Optimistic concurrency over `rowversion` with exponential-backoff retries, verified against a real SQL Server in Testcontainers: 25 concurrent movements on the same product end in 25 successes and an exact stock value.
+- React 19 + TanStack Query frontend derived from the backend: menu, buttons and routes come from the API's permission catalog, never the role name; filters, search and pagination live in the URL.
+- Backed by 201 API tests (xUnit, Testcontainers) and 418 E2E checks in real Chromium with Playwright; CI builds with `-warnaserror` at zero warnings and audits vulnerable dependencies, including transitive ones.
+- One-command deploy: `docker compose up -d --build` brings up database, API and frontend, applies migrations and seeds the admin; nginx serves the SPA and proxies `/api` — single origin, no CORS to configure.
+
 
 ---
 
