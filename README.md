@@ -38,7 +38,7 @@ performance optimization, and technical leadership.
 ## 🧩 Featured Projects
 
 ### 🏢 OwnOrbit — Property Rental Management Platform
-[🔗 Live MVP](https://preview--renta-pulse.lovable.app/)
+[🔗 Live MVP](https://owrnorbit-web.onrender.com/#/)
 
 **Role:** Lead Software Engineer
 **Tech:** Node.js, TypeScript, Express, React, React Native, Docker, NGINX, gRPC, Tailwind CSS
@@ -68,21 +68,41 @@ performance optimization, and technical leadership.
 
 ---
 
+### 🧠 Nexus Expression Engine — Architect & Sole Engineer
+
+_Business rules engine with an expression language built from scratch · Personal project · 2026_
+
+- Built the full expression language from scratch — lexer with error recovery, recursive-descent parser, AST, evaluator, and static type checker — with no parser generator and zero third-party dependencies in the core.
+- Designed a hexagonal modular monolith with module auto-discovery, its dependency rules enforced by executable architecture tests so violations fail the build instead of being caught in review.
+- Versioned rules append-only in PostgreSQL, with `xmin` optimistic concurrency and a partial unique index guaranteeing exactly one active version per rule at the database level.
+- Exposed a REST API with RFC 7807 problem details and OpenAPI, with the whole stack up via a single `docker compose up`.
+- Set up CI running at zero warnings under `TreatWarningsAsErrors`, backed by an xUnit v3 test suite.
+
+**Tech:** C# · .NET 10 · ASP.NET Core Minimal APIs · EF Core 10 · PostgreSQL 17 · pgvector · Docker · xUnit v3 · GitHub Actions
+
+[💻 Source](https://github.com/waka-code/nexus)
+
+
+---
+
 ## 💼 Professional Experience (Highlights)
 
-### 🏢 ProDoctivity SRL — Senior Fullstack Developer
-*Business management and process automation platform · April 2023 – Present*
+### 🏢 Millicom — Senior Fullstack Developer
 
-- Developed and scaled fullstack features using React, TypeScript, Node.js, Docker, and MongoDB.
-- Designed microservices supporting core ERP business processes and backend workflows.
-- Built a production-grade RAG-based AI document assistant on OpenAI LLMs, letting users upload documents and query them in natural language.
-- Implemented AI-powered document classification that analyzes uploads and assigns the right document type automatically.
-- Designed and implemented an independent **MCP service in Rust**, integrated with the Node.js backend to expose application data and services to AI-powered workflows.
-- Acted as a technical reference for architecture, implementation decisions, and engineering best practices.
-- Supervised and mentored interns through onboarding, code reviews, and continuous feedback.
+_International telecom: mobile, broadband, and digital services across Latin America · Contract engagement via Zerviz Technologies · March 2026 – Present_
 
-### 🏢 Higher Bit Solutions — Senior Fullstack Engineer / Technical Lead (Contract)
-*Custom tech, AI, and automation solutions · Sept 2025 – Apr 2026*
+- Delivered high-performance frontend applications with React, Vue.js, and Next.js, improving user experience and cutting load times across key interfaces.
+- Built and scaled backend services with Node.js and Ruby on Rails, applying clean architecture principles for maintainability and reliability.
+- Designed and optimized REST APIs within a microservices architecture, enabling scalable, modular system growth.
+- Integrated multiple third-party services with secure authentication and authorization mechanisms protecting user data.
+- Improved database performance by designing and optimizing PostgreSQL schemas and queries for high-traffic operations.
+- Reduced API response times and system latency through Redis-based caching strategies.
+- Streamlined deployment and release processes with Docker and CI/CD pipelines, improving delivery speed and reliability.
+
+**Tech:** React · Vue.js · Next.js · TypeScript · Node.js · Express · Ruby on Rails · PostgreSQL · Redis · Docker · REST APIs · CI/CD · Tailwind CSS · AWS
+
+### 🏢 Higher Bit Solutions — Senior Fullstack Engineer / Technical Lead
+*Custom tech, AI, and automation solutions · Project-Based Contract · Sept 2025 – 2026* 
 
 - Led technical roadmaps and architectural decisions across multiple production systems and client projects.
 - Designed and implemented end-to-end solutions with Django, Node.js, React, Next.js, TypeScript, and PostgreSQL.
@@ -91,6 +111,17 @@ performance optimization, and technical leadership.
 - Rebuilt the Calquen frontend and key backend components from scratch in one month, fixing production issues and improving the scraper and data-processing pipeline.
 - Designed and implemented the Iocupacional architecture and business logic from the ground up, using AI-assisted workflows to accelerate delivery.
 - Mentored junior developers, ran code reviews, and established engineering best practices.
+
+### 🏢 ProDoctivity SRL — Senior Fullstack Developer
+*Business management and process automation platform · April 2023 – Sept 2026*
+
+- Developed and scaled fullstack features using React, TypeScript, Node.js, Docker, and MongoDB.
+- Designed microservices supporting core ERP business processes and backend workflows.
+- Built a production-grade RAG-based AI document assistant on OpenAI LLMs, letting users upload documents and query them in natural language.
+- Implemented AI-powered document classification that analyzes uploads and assigns the right document type automatically.
+- Designed and implemented an independent **MCP service in Rust**, integrated with the Node.js backend to expose application data and services to AI-powered workflows.
+- Acted as a technical reference for architecture, implementation decisions, and engineering best practices.
+- Supervised and mentored interns through onboarding, code reviews, and continuous feedback.
 
 ### 🏢 IMarket — Fullstack Developer (Contract)
 *Administrative and accounting management platform · Nov 2024 – May 2025*
