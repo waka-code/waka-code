@@ -37,17 +37,19 @@ performance optimization, and technical leadership.
 
 ## 🧩 Featured Projects
 
-### 🏢 OwnOrbit — Property Rental Management Platform
-[🔗 Live MVP](https://owrnorbit-web.onrender.com/#/)
+### 🛰️ OwnOrbit — Lead Software Engineer
 
-**Role:** Lead Software Engineer
-**Tech:** Node.js, TypeScript, Express, React, React Native, Docker, NGINX, gRPC, Tailwind CSS
+_Event-driven microservices platform for property rental management · Web + mobile · ~36k LOC TypeScript_
 
-- Designed the overall system architecture using Microservices and Clean Architecture principles.
-- Developed backend services with Node.js and TypeScript, focusing on scalability and separation of concerns.
-- Built responsive web and mobile interfaces for property owners and tenants.
-- Implemented a monorepo structure with shared packages and a CI/CD-ready setup.
-- Established code quality standards (ESLint, Jest, commitlint).
+- Designed the system architecture (Clean Architecture, SOLID, per-service data ownership) and built the Node.js/TypeScript services behind an NGINX API Gateway centralizing JWT validation, CORS, and rate limiting.
+- Implemented asynchronous inter-service messaging over RabbitMQ with a dead-letter exchange and bounded retries, so a failing consumer degrades one queue instead of taking down the flow — plus real-time chat over WebSockets.
+- Modeled the end-to-end rental flow as a state machine with per-actor authorization and an audit timeline, backed by MongoDB partial unique indexes that enforce the concurrency invariants at the database level.
+- Developed the responsive web (React 19 + Vite + Tailwind v4) and mobile (React Native + Expo) clients, with role-based portals for owners, tenants, and lawyers.
+- Built a pnpm monorepo with shared packages reused across web and mobile, and a 6-stage GitLab CI/CD pipeline including security scanning and rollback.
+
+**Tech:** Node.js · TypeScript · Express · MongoDB · RabbitMQ · WebSockets · Docker · NGINX · React 19 · React Native (Expo) · Vite · Tailwind CSS · pnpm · GitLab CI/CD
+
+[🔗 Live demo](https://owrnorbit-web.onrender.com/#/) · 🔒 Private commercial project — source not public
 
 ---
 
