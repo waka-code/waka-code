@@ -82,7 +82,7 @@ _Business rules engine with an expression language built from scratch · Persona
 
 **Tech:** C# · .NET 10 · ASP.NET Core Minimal APIs · EF Core 10 · PostgreSQL 17 · pgvector · Docker · xUnit v3 · GitHub Actions
 
-[💻 Source](https://github.com/waka-code/nexus)
+[💻 Source](https://github.com/waka-code/nexus) · 🔒 The source is not public at this time
 
 
 ---
@@ -91,7 +91,7 @@ _Business rules engine with an expression language built from scratch · Persona
 
 ### 🏢 Millicom — Senior Fullstack Developer
 
-_International telecom: mobile, broadband, and digital services across Latin America · Contract engagement via Zerviz Technologies · March 2026 – Present_
+_International telecom: mobile, broadband, and digital services across Latin America 
 
 - Delivered high-performance frontend applications with React, Vue.js, and Next.js, improving user experience and cutting load times across key interfaces.
 - Built and scaled backend services with Node.js and Ruby on Rails, applying clean architecture principles for maintainability and reliability.
@@ -104,7 +104,7 @@ _International telecom: mobile, broadband, and digital services across Latin Ame
 **Tech:** React · Vue.js · Next.js · TypeScript · Node.js · Express · Ruby on Rails · PostgreSQL · Redis · Docker · REST APIs · CI/CD · Tailwind CSS · AWS
 
 ### 🏢 Higher Bit Solutions — Senior Fullstack Engineer / Technical Lead
-*Custom tech, AI, and automation solutions · Project-Based Contract · Sept 2025 – 2026* 
+*Custom tech, AI, and automation solutions · Project-Based Contract
 
 - Led technical roadmaps and architectural decisions across multiple production systems and client projects.
 - Designed and implemented end-to-end solutions with Django, Node.js, React, Next.js, TypeScript, and PostgreSQL.
@@ -115,7 +115,7 @@ _International telecom: mobile, broadband, and digital services across Latin Ame
 - Mentored junior developers, ran code reviews, and established engineering best practices.
 
 ### 🏢 ProDoctivity SRL — Senior Fullstack Developer
-*Business management and process automation platform · April 2023 – Sept 2026*
+*Business management and process automation platform
 
 - Developed and scaled fullstack features using React, TypeScript, Node.js, Docker, and MongoDB.
 - Designed microservices supporting core ERP business processes and backend workflows.
@@ -126,14 +126,14 @@ _International telecom: mobile, broadband, and digital services across Latin Ame
 - Supervised and mentored interns through onboarding, code reviews, and continuous feedback.
 
 ### 🏢 IMarket — Fullstack Developer (Contract)
-*Administrative and accounting management platform · Nov 2024 – May 2025*
+*Administrative and accounting management platform
 
 - Developed RESTful APIs and implemented business logic and validations.
 - Designed database models, migrations, and optimized queries, improving performance in critical operations.
 - Built reusable frontend components and responsive interfaces with Angular and TypeScript.
 
 ### 🏢 Freelance Projects — Fullstack / Web Developer
-*SPAs, PWAs, and fullstack systems · Nov 2020 – Apr 2023*
+*SPAs, PWAs, and fullstack systems
 
 - Delivered multiple freelance projects, turning UI/UX designs into production-ready applications.
 - Integrated frontend and backend systems through REST APIs.
