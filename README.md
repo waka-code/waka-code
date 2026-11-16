@@ -215,7 +215,7 @@ Spanish (Native) · English (B1, technical communication) · French (A1)
 
 ## 📫 Contact
 
-- 📄 [Resume](https://acortar.link/OWfefY)
+- 📄 [Resume](https://www.canva.com/design/DAHbGAwXshI/jsaY3aYGSJib5sDQJZTePQ/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)
 - 🌐 [Portfolio](https://waka-code.github.io/CVPortfolio)
 - 💼 [LinkedIn](https://www.linkedin.com/in/waddimi-saint-louis-b49424230)
 - 📧 Email: shenryvladimil@gmail.com
