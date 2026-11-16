@@ -89,6 +89,7 @@ _Business rules engine with an expression language built from scratch · Persona
 
 ## 💼 Professional Experience (Highlights)
 
+<!--
 ### 🏢 Millicom — Senior Fullstack Developer
 
 _International telecom: mobile, broadband, and digital services across Latin America 
@@ -102,6 +103,7 @@ _International telecom: mobile, broadband, and digital services across Latin Ame
 - Streamlined deployment and release processes with Docker and CI/CD pipelines, improving delivery speed and reliability.
 
 **Tech:** React · Vue.js · Next.js · TypeScript · Node.js · Express · Ruby on Rails · PostgreSQL · Redis · Docker · REST APIs · CI/CD · Tailwind CSS · AWS
+-->
 
 ### 🏢 Higher Bit Solutions — Senior Fullstack Engineer / Technical Lead
 *Custom tech, AI, and automation solutions · Project-Based Contract
